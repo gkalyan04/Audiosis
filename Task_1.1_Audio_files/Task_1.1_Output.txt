@@ -1,0 +1,12 @@
+
+Audio_1.wav: A4
+
+Audio_2.wav: A4
+
+Audio_3.wav: C3
+
+Audio_4.wav: E4
+
+Audio_5.wav: G3
+
+Audio_6.wav: A4

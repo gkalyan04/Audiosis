@@ -1,0 +1,21 @@
+
+	Audio_1.wav:	Audio_2.wav:
+
+	Onset	Note	Onset	Note
+	
+	0.00 	F4	0.00	F8
+	2.15 	B3	0.59	B8
+	4.30 	C6	1.01	E6
+	7.55 	A4	1.31	E6
+			1.93 	C7
+			2.33 	G6
+			3.09 	A6
+
+	Audio_3.wav:
+
+	Onset 	Note
+
+	0.04 	A3
+	0.81 	A4
+	1.36 	A5
+	1.82 	A3
